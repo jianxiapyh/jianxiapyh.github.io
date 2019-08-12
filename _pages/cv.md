@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-# indent 4 spaces
 Education
 ======
 * B.S. in Computer Engineering, Minor: Math/Cybersecurity, Virginia Tech, 2011-2015
@@ -31,10 +30,10 @@ Programming Languages
 
 Software Frameworks
 ======
-*LLVM
-*Gem5
-*DRAMSim2
-*Ramulator
+* LLVM
+* Gem5
+* DRAMSim2
+* Ramulator
 
 Publications
 ======
