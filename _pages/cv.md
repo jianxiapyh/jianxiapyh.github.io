@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Minor: Math/Cybersecurity Virginia Tech, 2011-2015
-* M.S. in Computer Engineering, 2016-2019 
+* B.S. in Computer Engineering, Minor: Math/Cybersecurity, Virginia Tech, 2011-2015
+* M.S. in Computer Engineering, Virginia Tech, 2016-2019 
+	*Advisor: Binoy Ravindran
 
 Work experience
 ======
