@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-In Brief
-======
-My name is YIhan Pang. I am a third-year MS student in the Bradley Electrical and Computer Engineering Department at Virginia Tech, where I work with 
-Professor Binoy Ravindran in the System Software Research Group (SSRG). I have also worked closely with Dr. Xun Jian in the Computer Science
-Department. 
+Thanks for stopping by!
+
+I am a last-year MS student in Computer Engineering at Virginia Tech, where I work with professor Binoy Ravindran in the <a href=https://www.ssrg.ece.vt.edu/">System Software Research Group(SSRG)</a>.
+My research interests lie in the general area of computer architecture and system.
+
+I received a B.S. in Computer Engineering from Virginia Tech.
 
 Recent News
 ======
