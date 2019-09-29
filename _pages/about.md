@@ -17,8 +17,8 @@ Department.
 Recent News
 ======
 25 July, 2019<br/>
-One paper was accepted at MICRO 2019<br/>
+One paper has been accepted by MICRO 2019<br/>
 <br/>
 April 14, 2019<br/>
-One paper was accpeted to SYSTOR 2019<br/>
+One paper has been accepted to SYSTOR 2019<br/>
 
