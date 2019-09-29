@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Education
 ======
-* B.S. in Computer Engineering, Minor: Math/Cybersecurity, Virginia Tech, 2011-2015
+* B.S. in Computer Engineering (Rank 7), Minor: Math/Cybersecurity, Virginia Tech, 2011-2015
 * M.S. in Computer Engineering, Virginia Tech, 2016-2019 
     * Advisor: Binoy Ravindran
 * Yorktown High School, Arlington VA, 2007-2011
