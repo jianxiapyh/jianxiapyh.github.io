@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-For a PDF version [click here] (../files/Yihan_Pang_CV_fix.pdf)
-[I'm an inline-style link](https://www.google.com)
+For a PDF version [click here](../files/Yihan_Pang_CV_fix.pdf)
+
 Education
 ======
 * B.S. in Computer Engineering, Minor: Math/Cybersecurity, Virginia Tech, 2011-2015
