@@ -2,7 +2,7 @@
 title: "Quantifying Memory Underutilization in HPC Systems and Using it to Improve Performance via Architecture Support"
 collection: publications
 permalink: /publication/2019-micro
-excerpt: 'This paper investigates the effectiveness of executing SIMD workloads on multiprocessors with heterogeneous ISA cores'
+excerpt: 'This paper investigates memory underutilization problem in HPC system and purposes new microarchitectural techniques to improve performance'
 date: 2019-07-22
 venue: 'IEEE/ACM MICRO 2019'
 paperurl: 'http://jianxiapyh.github.io/files/yihan_micro19.pdf'
