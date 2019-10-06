@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-For a PDF version 
+For a PDF version [click here] (../files/Yihan_Pang_CV_fix.pdf)
 
 Education
 ======
