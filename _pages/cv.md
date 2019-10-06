@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+For a PDF version 
+
 Education
 ======
 * B.S. in Computer Engineering, Minor: Math/Cybersecurity, Virginia Tech, 2011-2015
