@@ -17,6 +17,8 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Readling Lists"
+    url: /reading_lists/    
 #  - title: "Guide"
 #    url: /markdown/
