@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "In Near Memory Computing"
+title: "In/Near Memory Computing"
 permalink: /in_near_mem_computing/
 author_profile: true
 ---
