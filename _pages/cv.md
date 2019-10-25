@@ -12,10 +12,10 @@ PDF version [click here](../files/Yihan_Pang_CV_fix.pdf)
 
 Education
 ======
-* B.S. in Computer Engineering, Minor: Math/Cybersecurity, Virginia Tech, 2011-2015
-    * Rank: 7
 * M.S. in Computer Engineering, Virginia Tech, 2016-2019 
     * Advisor: Binoy Ravindran
+* B.S. in Computer Engineering, Minor: Math/Cybersecurity, Virginia Tech, 2011-2015
+    * Rank: 7
 * Yorktown High School, Arlington VA, 2007-2011
 
 Work experience
@@ -30,6 +30,9 @@ Programming Languages
 ======
 * C/C++
 * Bash
+* Python
+* Java
+* Verilog
 
 Software Frameworks
 ======
