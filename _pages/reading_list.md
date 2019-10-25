@@ -7,10 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Computer Architecture
-======
 
-
-System
+Security
 ======
-[Security](../files/Yihan_Pang_CV_fix.pdf)
+[Security](../files/reading_lists/Security.md)
