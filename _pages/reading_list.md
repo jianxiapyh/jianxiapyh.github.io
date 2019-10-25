@@ -8,6 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-Security
-======
 [Security](../files/reading_lists/Security.md)
+[In/Near Memory Computing](../files/reading_lists/In_Near_Memory_Computing.md)
+
