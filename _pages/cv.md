@@ -14,6 +14,7 @@ Education
 ======
 * M.S. in Computer Engineering, Virginia Tech, 2016-2019 
     * Advisor: Binoy Ravindran
+    * Thesis: Leveraging Processor-diversity for Improved Performance in Heterogeneous-ISA Systems
 * B.S. in Computer Engineering, Minor: Math/Cybersecurity, Virginia Tech, 2011-2015
     * Rank: 7
 * Yorktown High School, Arlington VA, 2007-2011
