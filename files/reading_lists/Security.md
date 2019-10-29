@@ -8,6 +8,7 @@ author_profile: true
 <ol>
    <li> Ginseng: Keeping Secrets in Registers When you Distrust the Operating System (NDSS 2019) </li>
    <li> Last-Level Cache Side-Channel Attacks are Practical (S&P 2015) </li>
+   <li> Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn" </li>
 </ol>
 
 
