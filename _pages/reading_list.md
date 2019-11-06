@@ -14,4 +14,5 @@ These reading lists include topics I want to explore in the future.
 [Security](../files/reading_lists/Security.md)<br/>
 [Accelerator](../files/reading_lists/Accelerator.md)<br/>
 [In/Near Memory Computing](../files/reading_lists/In_Near_Memory_Computing.md)
+[System](../files/reading_lists/System.md)
 
