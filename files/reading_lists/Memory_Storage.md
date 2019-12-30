@@ -7,6 +7,7 @@ author_profile: true
 
 <ol>
    <li> Adaptive Insertion Policies for High Performance Caching (ISCA 07)</li>
+   <li> Compresso: Pragmatic Main Memory Comptression (MICRO 18)</li>
 </ol>
 
 
