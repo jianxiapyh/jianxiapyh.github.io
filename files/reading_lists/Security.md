@@ -12,6 +12,7 @@ author_profile: true
    <li> A2: Analog Malicious Hardware (S&P 2016) </li>
    <li> InvisiSpec: Making Speculative Execution Invisible in the Cache Hierarchy (MICRO 18) </li> 
    <li> SoK: Eternal War in Memory (S&P 2013) </li>
+   <li> Context-Sensitive Fencing: Securing Speculative Execution via Microcode Customization (ASPLOS 2019) </li>
 </ol>
 
 
