@@ -9,6 +9,7 @@ author_profile: true
    <li> Adaptive Insertion Policies for High Performance Caching (ISCA 07)</li>
    <li> Compresso: Pragmatic Main Memory Comptression (MICRO 18)</li>
    <li> Distributed Logless Atomic Durability with Persistent Memory (MICRO 19)</li>
+   <li> Stream-based Memory Access Specialization for General Purpose Processors (ISCA 2019)</li>
 </ol>
 
 
