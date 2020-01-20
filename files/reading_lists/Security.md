@@ -13,6 +13,7 @@ author_profile: true
    <li> InvisiSpec: Making Speculative Execution Invisible in the Cache Hierarchy (MICRO 18) </li> 
    <li> SoK: Eternal War in Memory (S&P 2013) </li>
    <li> Context-Sensitive Fencing: Securing Speculative Execution via Microcode Customization (ASPLOS 2019) </li>
+   <li> Secure TLBs (ISCA 2019) </li>
 </ol>
 
 
