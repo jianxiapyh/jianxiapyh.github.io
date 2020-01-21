@@ -10,6 +10,6 @@ paperurl: 'http://jianxiapyh.github.io/files/yihan_MS_thesis.pdf'
 
 Abstract
 ======
-A better and more generic version of the systor paper. The most funny part is probably the general audience abstract. 
+A better and more generic version of the systor paper. The best part is probably the general audience abstract. 
 [Download paper here](http://jianxiapyh.github.io/files/yihan_MS_thesis.pdf)
 
