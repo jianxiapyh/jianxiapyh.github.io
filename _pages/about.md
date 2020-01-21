@@ -10,7 +10,7 @@ redirect_from:
 
 Thanks for stopping by!
 
-I am a last-year M.S. student in Computer Engineering at Virginia Tech, where I work with professor Binoy Ravindran in the <a href="https://www.ssrg.ece.vt.edu">System Software Research Group(SSRG)</a>.
+I am a recently graduated M.S. student in Computer Engineering at Virginia Tech, where I work with professor Binoy Ravindran in the <a href="https://www.ssrg.ece.vt.edu">System Software Research Group(SSRG)</a>.
 My research interests lie in the general area of computer architecture and system.
 
 I received a B.S. in Computer Engineering from Virginia Tech.
