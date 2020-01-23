@@ -9,6 +9,7 @@ author_profile: true
    <li> Ginseng: Keeping Secrets in Registers When you Distrust the Operating System (NDSS 2019) </li>
    <li> Architectural Support for Containment-based Security (ASPLOS 2019) </li>
    <li> Context-Sensitive Fencing: Securing Speculative Execution via Microcode Customization (ASPLOS 2019) </li>
+   <li> EMMA: Hardware/Software Attestation Framework for Embedded Systems Using Electromagnetic Signals (MICRO 2019) </li>
    <li> InvisiSpec: Making Speculative Execution Invisible in the Cache Hierarchy (MICRO 18) </li> 
    <li> Secure TLBs (ISCA 2019) </li>
    <li> Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn (ASPLOS 2018) </li>
