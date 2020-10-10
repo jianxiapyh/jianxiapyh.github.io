@@ -10,6 +10,7 @@ author_profile: true
    <li> Compresso: Pragmatic Main Memory Comptression (MICRO 18)</li>
    <li> Distributed Logless Atomic Durability with Persistent Memory (MICRO 19)</li>
    <li> Stream-based Memory Access Specialization for General Purpose Processors (ISCA 2019)</li>
+   <li> FIGARO: Improving System Performance via Fine-Grained In-DRAM Data Relocation and Caching (MICRO 2020)</li>
 </ol>
 
 
