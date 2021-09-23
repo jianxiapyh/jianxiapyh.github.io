@@ -10,7 +10,7 @@ redirect_from:
 
 Thanks for stopping by!
 
-I am a first year Ph.D. student in Computer Science at UIUC, where I work with professor Sarita Adve.
+I am a second year Ph.D. student in Computer Science at UIUC, where I work with Professor Sarita Adve.
 My research interests lie in the general area of computer architecture and system.
 
 I received a B.S.&M.S in Computer Engineering from Virginia Tech.
