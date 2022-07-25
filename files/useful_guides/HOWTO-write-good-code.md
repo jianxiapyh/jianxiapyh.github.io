@@ -62,3 +62,4 @@
 ## Deeply understand C++
 - [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_2?s=books&ie=UTF8&qid=1528297642&sr=1-2&keywords=more+effective+c%2B%2B)
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_3?ie=UTF8&qid=1528298534&sr=8-3&keywords=design+patterns)
+- [Type Conversion in C++ - Scaler Topics](https://www.scaler.com/topics/cpp/type-conversion-in-cpp/)
