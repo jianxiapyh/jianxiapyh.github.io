@@ -2,6 +2,7 @@
 title: "Ada: A Distributed, Power-Aware, Real-Time Scene Provider for XR"
 collection: publications
 permalink: /publication/2025-tvcg-ada
+authors: "Y. Pang, S. Kondguli, S. Wang, S. Adve"
 excerpt: 'Distributed, power-aware, real-time scene provider for XR. Best Paper Award, ISMAR 2025.'
 date: 2025-10-01
 venue: 'IEEE Transactions on Visualization and Computer Graphics (ISMAR 2025 Special Issue)'

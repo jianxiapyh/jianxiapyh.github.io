@@ -2,6 +2,7 @@
 title: "AdaptiveFusion: Low-Power Scene Reconstruction"
 collection: publications
 permalink: /publication/2023-vrw-adaptivefusion
+authors: "H. Muhammad, B. Tian, Y. Pang, H. Che, S. Wang, S. Adve"
 excerpt: 'Workshop paper on low-power scene reconstruction for XR workloads.'
 date: 2023-03-01
 venue: 'IEEE VRW 2023'

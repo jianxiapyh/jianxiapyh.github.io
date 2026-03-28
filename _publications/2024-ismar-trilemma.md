@@ -2,6 +2,7 @@
 title: "Towards Energy-Efficiency by Navigating the Trilemma of Energy, Latency, and Accuracy"
 collection: publications
 permalink: /publication/2024-ismar-trilemma
+authors: "B. Tian, Y. Pang, H. Muhammad, S. Wang, S. Adve"
 excerpt: 'XR systems work on balancing energy, latency, and accuracy.'
 date: 2024-10-01
 venue: 'IEEE ISMAR 2024'

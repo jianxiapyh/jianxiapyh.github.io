@@ -2,6 +2,7 @@
 title: "Cross-ISA Execution of SIMD Regions for Improved Performance"
 collection: publications
 permalink: /publication/2019-systor
+authors: "Y. Pang, R. Lyerly, B. Ravindran"
 excerpt: 'Cross-ISA execution support for SIMD regions on heterogeneous systems.'
 date: 2019-06-01
 venue: 'ACM SYSTOR 2019'
