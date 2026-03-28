@@ -23,9 +23,16 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% endif %}
 
 {% for post in site.publications reversed %}
-  {% assign award_text = '' %}
+  {% assign awards = '' %}
   {% if post.citation contains 'Best Paper Award' %}
-    {% assign award_text = 'Best Paper Award' %}
+    {% assign awards = 'Best Paper Award' %}
+  {% endif %}
+  {% if post.citation contains 'IEEE Micro Top Pick' %}
+    {% if awards != '' %}
+      {% assign awards = awards | append: '; IEEE Micro Top Pick' %}
+    {% else %}
+      {% assign awards = 'IEEE Micro Top Pick' %}
+    {% endif %}
   {% endif %}
   <div style="margin-bottom: 1.5rem;">
     <div style="font-weight: 600; font-size: 1.05rem;">
@@ -37,8 +44,8 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
     <div>
       {{ post.display_venue | default: post.venue }}
     </div>
-    {% if award_text != '' %}
-    <div><strong>{{ award_text }}</strong></div>
+    {% if awards != '' %}
+    <div><strong>{{ awards }}</strong></div>
     {% endif %}
     {% if post.paperurl %}
     <div><a href="{{ post.paperurl }}">[Paper]</a></div>
