@@ -6,7 +6,7 @@ authors: "K. Cao, H. Ye, Y. Pang, D. Chen"
 excerpt: 'Machine learning-based code-version and device-selection framework for heterogeneous systems.'
 date: 2025-07-01
 venue: 'IEEE Transactions on Computers'
-short_venue: 'TC'
+display_venue: 'IEEE TC 2025'
 citation: 'K. Cao, H. Ye, Y. Pang, D. Chen. IEEE Transactions on Computers (TC), July 2025.'
 ---
 

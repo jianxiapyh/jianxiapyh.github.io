@@ -6,7 +6,7 @@ authors: "Y. Pang, S. Kondguli, S. Wang, S. Adve"
 excerpt: 'Distributed, power-aware, real-time scene provider for XR. Best Paper Award, ISMAR 2025.'
 date: 2025-10-01
 venue: 'IEEE Transactions on Visualization and Computer Graphics (ISMAR 2025 Special Issue)'
-short_venue: 'TVCG'
+display_venue: 'IEEE TVCG 2025'
 citation: 'Y. Pang, S. Kondguli, S. Wang, S. Adve. IEEE Transactions on Visualization and Computer Graphics (TVCG), ISMAR 2025 Special Issue. Also in Proceedings of the 24th IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2025). Best Paper Award, ISMAR 2025.'
 ---
 

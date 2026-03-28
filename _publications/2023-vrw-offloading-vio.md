@@ -6,7 +6,7 @@ authors: "Q. Jiang, H. Muhammad, W. Sentosa, J. Zhang, S. Gao, Y. Pang, H. Che, 
 excerpt: 'Workshop paper on reducing XR device power through visual-inertial odometry offloading.'
 date: 2023-03-01
 venue: 'IEEE VRW 2023'
-short_venue: 'VRW'
+display_venue: 'IEEE VRW 2023'
 citation: 'Q. Jiang, H. Muhammad, W. Sentosa, J. Zhang, S. Gao, Y. Pang, H. Che, B. Godfrey, S. Adve. In Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW 2023), March 2023.'
 ---
 

@@ -6,7 +6,7 @@ authors: "Y. Pang, R. Lyerly, B. Ravindran"
 excerpt: 'Cross-ISA execution support for SIMD regions on heterogeneous systems.'
 date: 2019-06-01
 venue: 'ACM SYSTOR 2019'
-short_venue: 'SYSTOR'
+display_venue: 'ACM SYSTOR 2019'
 citation: 'Y. Pang, R. Lyerly, B. Ravindran. In Proceedings of the 12th ACM International Conference on Systems and Storage (SYSTOR 2019), June 2019.'
 paperurl: 'http://jianxiapyh.github.io/files/yihan_systor19.pdf'
 ---

@@ -6,7 +6,7 @@ authors: "G. Panwar*, D. Zhang*, Y. Pang*, M. Dahshan, N. DeBardeleben, B. Ravin
 excerpt: 'Study of memory underutilization in HPC systems and architecture support to improve performance.'
 date: 2019-10-01
 venue: 'IEEE/ACM MICRO-52'
-short_venue: 'MICRO'
+display_venue: 'IEEE/ACM MICRO 2019'
 citation: 'G. Panwar*, D. Zhang*, Y. Pang*, M. Dahshan, N. DeBardeleben, B. Ravindran, X. Jian. In Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO-52), October 2019. *First co-authors.'
 paperurl: 'http://jianxiapyh.github.io/files/yihan_micro19.pdf'
 ---
