@@ -1,10 +1,11 @@
 ---
-title: "Quantifying Memory Underutilization in HPC Systems and Using it to Improve Performance via Architecture Support"
+title: "Quantifying Memory Underutilization in HPC Systems and Using It to Improve Performance via Architecture Support"
 collection: publications
 permalink: /publication/2019-micro
-excerpt: 'This paper investigates memory underutilization problem in HPC system and purposes new microarchitectural techniques to improve performance'
-date: 2019-07-22
-venue: 'IEEE/ACM MICRO 2019'
+excerpt: 'Study of memory underutilization in HPC systems and architecture support to improve performance.'
+date: 2019-10-01
+venue: 'IEEE/ACM MICRO-52'
+citation: 'G. Panwar*, D. Zhang*, Y. Pang*, M. Dahshan, N. DeBardeleben, B. Ravindran, X. Jian. In Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO-52), October 2019. *First co-authors.'
 paperurl: 'http://jianxiapyh.github.io/files/yihan_micro19.pdf'
 ---
 
@@ -40,4 +41,3 @@ real-system emulation results. The paper ends by discussing other
 possible FMTs and applicability to other types of systems.
 
 [Download paper here](http://jianxiapyh.github.io/files/yihan_micro19.pdf)
-
