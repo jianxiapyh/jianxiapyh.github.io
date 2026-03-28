@@ -34,12 +34,13 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
       {% assign awards = 'IEEE Micro Top Pick' %}
     {% endif %}
   {% endif %}
+  {% assign display_authors = post.authors | replace: 'Y. Pang', '<strong>Y. Pang</strong>' %}
   <div style="margin-bottom: 1.5rem;">
     <div style="font-weight: 600; font-size: 1.05rem;">
       {{ post.title }}
     </div>
     {% if post.authors %}
-    <div>{{ post.authors }}</div>
+    <div>{{ display_authors }}</div>
     {% endif %}
     <div>
       {{ post.display_venue | default: post.venue }}
