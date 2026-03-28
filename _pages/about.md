@@ -24,6 +24,10 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 {% for post in site.publications reversed %}
   {% assign award_text = '' %}
+  {% assign pub_year = '' %}
+  {% if post.date %}
+    {% assign pub_year = post.date | date: "%Y" %}
+  {% endif %}
   {% if post.citation contains 'Best Paper Award' %}
     {% assign award_text = 'Best Paper Award' %}
   {% endif %}
@@ -35,8 +39,11 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
     <div>{{ post.authors }}</div>
     {% endif %}
     <div>
-      {{ post.venue }}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}{% if award_text != '' %}. {{ award_text }}{% endif %}
+      {{ post.venue }}{% if pub_year != '' and post.venue contains pub_year == false %}, {{ pub_year }}{% endif %}
     </div>
+    {% if award_text != '' %}
+    <div><strong>{{ award_text }}</strong></div>
+    {% endif %}
     {% if post.paperurl %}
     <div><a href="{{ post.paperurl }}">[Paper]</a></div>
     {% endif %}
