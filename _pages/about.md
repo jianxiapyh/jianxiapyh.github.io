@@ -47,8 +47,5 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
     {% if awards != '' %}
     <div><strong>{{ awards }}</strong></div>
     {% endif %}
-    {% if post.paperurl %}
-    <div><a href="{{ post.paperurl }}">[Paper]</a></div>
-    {% endif %}
   </div>
 {% endfor %}
