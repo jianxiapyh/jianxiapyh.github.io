@@ -35,8 +35,8 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
     {% endif %}
   {% endif %}
   {% assign display_authors = post.authors | replace: 'Y. Pang', '<strong>Y. Pang</strong>' %}
-  <div style="margin-bottom: 1.5rem;">
-    <div style="font-weight: 600; font-size: 1.05rem;">
+  <div style="margin-bottom: 1rem; font-size: 0.9rem; line-height: 1.35;">
+    <div style="font-weight: 600; font-size: 0.98rem;">
       {{ post.title }}
     </div>
     {% if post.authors %}
