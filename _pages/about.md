@@ -36,7 +36,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   {% endif %}
   <div style="margin-bottom: 1.5rem;">
     <div style="font-weight: 600; font-size: 1.05rem;">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {{ post.title }}
     </div>
     {% if post.authors %}
     <div>{{ post.authors }}</div>
