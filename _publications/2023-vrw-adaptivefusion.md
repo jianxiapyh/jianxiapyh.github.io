@@ -6,6 +6,7 @@ authors: "H. Muhammad, B. Tian, Y. Pang, H. Che, S. Wang, S. Adve"
 excerpt: 'Workshop paper on low-power scene reconstruction for XR workloads.'
 date: 2023-03-01
 venue: 'IEEE VRW 2023'
+short_venue: 'VRW'
 citation: 'H. Muhammad, B. Tian, Y. Pang, H. Che, S. Wang, S. Adve. In Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW 2023), March 2023.'
 ---
 

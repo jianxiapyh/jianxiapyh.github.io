@@ -6,6 +6,7 @@ authors: "Q. Jiang, Y. Pang, W. Sentosa, S. Gao, H. Muhammad, J. Zhang, J. Perez
 excerpt: 'End-to-end VR system design with head-tracking offloading.'
 date: 2025-03-01
 venue: 'ACM MMSys 2025'
+short_venue: 'MMSys'
 citation: 'Q. Jiang, Y. Pang, W. Sentosa, S. Gao, H. Muhammad, J. Zhang, J. Perez-Ramirez, D. Das, D. Cavalcanti, B. Godfrey, S. Adve. In Proceedings of the 16th ACM Multimedia Systems Conference (MMSys 2025), March 2025.'
 ---
 

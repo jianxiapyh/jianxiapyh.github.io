@@ -39,7 +39,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
     <div>{{ post.authors }}</div>
     {% endif %}
     <div>
-      {{ post.venue }}{% if pub_year != '' and post.venue contains pub_year == false %}, {{ pub_year }}{% endif %}
+      {{ post.short_venue | default: post.venue }}{% if pub_year != '' and post.short_venue and post.short_venue contains pub_year == false %}, {{ pub_year }}{% elsif pub_year != '' and post.short_venue == nil and post.venue contains pub_year == false %}, {{ pub_year }}{% endif %}
     </div>
     {% if award_text != '' %}
     <div><strong>{{ award_text }}</strong></div>
