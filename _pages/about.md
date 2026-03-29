@@ -25,7 +25,11 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% for post in site.publications reversed %}
   {% assign awards = '' %}
   {% if post.citation contains 'Best Paper Award' %}
-    {% assign awards = 'Best Paper Award' %}
+    {% if post.citation contains 'ISMAR 2025' %}
+      {% assign awards = 'Best Paper Award (ISMAR 2025)' %}
+    {% else %}
+      {% assign awards = 'Best Paper Award' %}
+    {% endif %}
   {% endif %}
   {% if post.citation contains 'IEEE Micro Top Pick' %}
     {% if awards != '' %}
