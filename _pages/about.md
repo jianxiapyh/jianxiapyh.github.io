@@ -31,3 +31,22 @@ In summer 2026, I was a Ph.D. intern on **NVIDIA's XR team**, working on scalabl
 ## Manuscripts Under Review
 
 {% include publication-list.html publications=site.data.manuscripts %}
+
+## Misc
+
+I name my favorite research projects after my cats. Meet Boba and Ada!
+
+<div class="cat-gallery">
+  <figure>
+    <a href="{{ '/images/cats/boba.jpg' | relative_url }}" aria-label="View the full photo of Boba">
+      <img src="{{ '/images/cats/boba.jpg' | relative_url }}" alt="Boba resting in a woven basket with one paw stretched down." width="2800" height="2800" loading="lazy" decoding="async">
+    </a>
+    <figcaption>Boba</figcaption>
+  </figure>
+  <figure>
+    <a href="{{ '/images/cats/ada.jpg' | relative_url }}" aria-label="View the full photo of Ada">
+      <img src="{{ '/images/cats/ada.jpg' | relative_url }}" alt="Ada, an orange tabby, lounging on top of a computer case." width="3973" height="2812" loading="lazy" decoding="async">
+    </a>
+    <figcaption>Ada</figcaption>
+  </figure>
+</div>
