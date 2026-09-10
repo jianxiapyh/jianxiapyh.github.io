@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign, advised by Professor Sarita Adve. I expect to graduate in **May 2027**.
+I am a Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign, advised by Professor Sarita Adve.
 
 My research focuses on **systems for spatial computing and embodied AI**, with interests in scalable infrastructure, algorithm–system co-design, and distributed systems. I build energy-efficient XR systems that balance power, latency, and quality, including **Boba** for physics-based Gaussian digital twins and **Ada** for real-time scene provisioning. I also contribute to the Illinois Extended Reality Testbed (ILLIXR) and have collaborated with Meta Reality Labs since 2024.
 
