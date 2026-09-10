@@ -1,6 +1,7 @@
 ---
 title: "Quantifying Memory Underutilization in HPC Systems and Using It to Improve Performance via Architecture Support"
 collection: publications
+selected: true
 permalink: /publication/2019-micro
 authors: "G. Panwar*, D. Zhang*, Y. Pang*, M. Dahshan, N. DeBardeleben, B. Ravindran, X. Jian"
 excerpt: 'Study of memory underutilization in HPC systems and architecture support to improve performance.'
