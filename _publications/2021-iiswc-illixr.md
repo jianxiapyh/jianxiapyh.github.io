@@ -1,6 +1,10 @@
 ---
 title: "ILLIXR: Enabling End-to-End Extended Reality Research"
 collection: publications
+selected: true
+awards:
+  - "Best Paper Award (IISWC 2021)"
+  - "IEEE Micro Top Pick"
 permalink: /publication/2021-iiswc-illixr
 authors: "H. Muhammad, R. Desai, S. Grayson, X. Jiang, Y. Jiang, Y. Jing, J. Lee, F. Lu, Y. Pang, J. Ravichandran, F. Sinclair, B. Tian, H. Yuan, J. Zhang, S. Adve"
 excerpt: 'Open-source end-to-end extended reality research platform. Best Paper Award; IEEE Micro Top Pick.'

@@ -1,6 +1,7 @@
 ---
 title: "RemoteVIO: Towards a Practical End-to-End VR System with Head Tracking Offloading"
 collection: publications
+selected: true
 permalink: /publication/2025-mmsys-remotevio
 authors: "Q. Jiang, Y. Pang, W. Sentosa, S. Gao, H. Muhammad, J. Zhang, J. Perez-Ramirez, D. Das, D. Cavalcanti, B. Godfrey, S. Adve"
 excerpt: 'End-to-end VR system design with head-tracking offloading.'

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yihan Pang / Home Page"
 title_separator          : "-"
 name                     : &name "Yihan Pang"
-description              : &description "personal description"
+description              : &description "Yihan Pang researches systems for spatial computing and embodied AI, scalable infrastructure, and algorithm–system co-design at the University of Illinois Urbana-Champaign."
 url                      : "https://jianxiapyh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yihan Pang"
   avatar           : "yihan_bio.jpg"
-  bio              : "An Ph.D. student researching in Computer Architecture & System Software"
+  bio              : "Ph.D. student at UIUC researching systems for spatial computing and embodied AI."
   location         : "Champaign, IL"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nDjJlNgAAAAJ&hl=en"
-  email            :
+  email            : "yihanp2@illinois.edu"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

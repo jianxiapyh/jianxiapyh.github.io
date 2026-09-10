@@ -8,7 +8,7 @@ date: 2019-06-01
 venue: 'ACM SYSTOR 2019'
 display_venue: 'ACM SYSTOR 2019'
 citation: 'Y. Pang, R. Lyerly, B. Ravindran. In Proceedings of the 12th ACM International Conference on Systems and Storage (SYSTOR 2019), June 2019.'
-paperurl: 'http://jianxiapyh.github.io/files/yihan_systor19.pdf'
+paperurl: '/files/yihan_systor19.pdf'
 ---
 
 Abstract
@@ -33,4 +33,4 @@ Our results reveal that cross-ISA execution migration
 within SIMD regions can yield throughput gains up to 36%
 compared to traditional homogeneous ISA systems
 
-[Download paper here](http://jianxiapyh.github.io/files/yihan_systor19.pdf)
+[Download paper here]({{ '/files/yihan_systor19.pdf' | relative_url }})

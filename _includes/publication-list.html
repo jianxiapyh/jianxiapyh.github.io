@@ -1,0 +1,21 @@
+<ul class="publication-list">
+{% for publication in include.publications %}
+  <li class="publication-list__item">
+    <h3 class="publication-list__title">{{ publication.title | escape }}</h3>
+    {% if publication.authors %}
+    <p class="publication-list__authors">{{ publication.authors | escape | replace: 'Y. Pang', '<strong>Y. Pang</strong>' }}</p>
+    {% endif %}
+    <p class="publication-list__venue">{{ publication.display_venue | default: publication.venue | escape }}</p>
+    {% if publication.awards %}
+    <p class="publication-list__awards"><strong>{{ publication.awards | join: '; ' | escape }}</strong></p>
+    {% endif %}
+    {% if publication.paperurl %}
+    {% assign paper_url = publication.paperurl %}
+    {% unless paper_url contains '://' %}
+      {% assign paper_url = paper_url | relative_url %}
+    {% endunless %}
+    <p class="publication-list__links"><a href="{{ paper_url | escape }}" aria-label="Read {{ publication.title | escape }}">Paper (PDF)</a></p>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>

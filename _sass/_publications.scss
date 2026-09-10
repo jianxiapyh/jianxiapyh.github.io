@@ -1,0 +1,28 @@
+/* Compact publication lists shared by published work and manuscripts. */
+.publication-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  .publication-list__item {
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+    line-height: 1.45;
+    overflow-wrap: break-word;
+  }
+
+  .publication-list__title {
+    margin: 0 0 0.25rem;
+    font-size: 0.98rem;
+    line-height: 1.4;
+    font-weight: 600;
+  }
+
+  p {
+    margin: 0.2rem 0 0;
+  }
+
+  .publication-list__venue {
+    font-style: italic;
+  }
+}
